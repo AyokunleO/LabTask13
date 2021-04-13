@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\bin\Debug\net5.0\JamesStuartMedia.exe
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\bin\Debug\net5.0\JamesStuartMedia.deps.json
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\bin\Debug\net5.0\JamesStuartMedia.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\bin\Debug\net5.0\JamesStuartMedia.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\bin\Debug\net5.0\JamesStuartMedia.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\bin\Debug\net5.0\ref\JamesStuartMedia.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\bin\Debug\net5.0\JamesStuartMedia.pdb
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\ref\JamesStuartMedia.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.pdb
+C:\CodebitsAcademy\LabTasks\LabTask13\JamesStuartMedia\obj\Debug\net5.0\JamesStuartMedia.genruntimeconfig.cache

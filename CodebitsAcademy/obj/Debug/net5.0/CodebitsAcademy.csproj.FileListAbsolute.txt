@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\bin\Debug\net5.0\CodebitsAcademy.exe
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\bin\Debug\net5.0\CodebitsAcademy.deps.json
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\bin\Debug\net5.0\CodebitsAcademy.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\bin\Debug\net5.0\CodebitsAcademy.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\bin\Debug\net5.0\CodebitsAcademy.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\bin\Debug\net5.0\ref\CodebitsAcademy.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\bin\Debug\net5.0\CodebitsAcademy.pdb
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\ref\CodebitsAcademy.dll
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.pdb
+C:\CodebitsAcademy\LabTasks\LabTask13\CodebitsAcademy\obj\Debug\net5.0\CodebitsAcademy.genruntimeconfig.cache
